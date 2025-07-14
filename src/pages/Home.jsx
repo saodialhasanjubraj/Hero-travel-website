@@ -7,6 +7,7 @@ function Home() {
         <h1>logo</h1>
         <ul><li><NavLink to=""></NavLink></li></ul>
     </div>
+    
   )
 }
 
